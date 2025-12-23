@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abdul Karim (@updultech)</h1>
+<h1 align="center">👋 Hi, I'm Abdul Hakim (@updultech)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer;Data+Analyst;AI+%26+Blockchain+Enthusiast" />
@@ -14,7 +14,7 @@ Building modern, accessible, and impactful digital solutions 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=updultech&show_icons=true&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=updultech&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=abdulhakim1217&theme=radical" height="170"/>
 </p>
 
 ---
@@ -22,7 +22,7 @@ Building modern, accessible, and impactful digital solutions 🚀
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=updultech&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulhakim1217&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
